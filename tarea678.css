@@ -1,0 +1,45 @@
+    #Texto1{
+    width:80%;
+    
+    font-family:Verdana;
+    font-size:100%;
+   
+    }
+    .container{
+        border-style: solid; color:cadetblue; border-radius: 10px; font-style: italic; 
+    }    
+    .card{
+        margin-left: 25px;
+        margin-bottom: 100px;
+    }
+
+.nav-item{
+    font-weight: bold;
+}
+/* PONGO COMO COMENTARIO PARA CANCELAR LLAMADA DE CLASE DE CARRUSEL QUE NO ME GUSTO COMO QUEDABA>>
+.carousel-item{
+
+margin-top: -300px;
+margin-left: 500px;
+
+}
+*/
+
+    #separacion{
+    clear:both;
+    }
+    
+    #pie{
+
+        background-color: gray;
+        
+        font-style: italic;
+        font-size: 20px;
+        text-align:center;
+        opacity: 0.5;
+    
+}
+ *{
+    
+    background: linear-gradient(135deg, #0f147355 50%, transparent 25%) 
+ }   
